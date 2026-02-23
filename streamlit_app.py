@@ -29,11 +29,11 @@ from googleapiclient.http import MediaIoBaseUpload
 LOGO_HA_URL = "https://raw.githubusercontent.com/HOIARRTool/appqtbi/main/messageImage_1763018963411.jpg"
 
 UNIT_OPTIONS = [
-    "รพ.สต.รพ.ศูนย์การแพทย์มหาวิทยาลัยแม่ฟ้าหลวง",
-    "รพ.สต.แม่ข้าวต้ม",
-    "รพ.สต.โล๊ะป่าห้า",
-    "รพ.สต.ท่าสุด",
-    "รพ.สต.นางแล",
+    "PCU1",
+    "PCU2",
+    "PCU3",
+    "PCU4",
+    "PCU5",
 ]
 
 # เก็บคอลัมน์เดิม + เพิ่มคอลัมน์ใหม่แบบ backward-compatible
